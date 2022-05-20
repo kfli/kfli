@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kfli
 - 👀 I’m interested in programming, chess, and climbing
-- 🌱 I’m currently learning openFOAM
+- 🌱 I’m currently learning openFOAM and deal.II
 - 💞️ I’m looking to collaborate on Time-Spectral Chebyshev Galerkin Methods
 
 <!---
